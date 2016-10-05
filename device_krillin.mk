@@ -61,6 +61,10 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/mtk-kpd.kl:system/usr/keylayout/mtk-kpd.kl
 
+# Keylayout overrides
+PRODUCT_COPY_FILES_OVERRIDES += \
+system/usr/keylayout/Generic.kl
+
 # GSM
 #PRODUCT_PACKAGES += \
 #    gsm0710muxd
