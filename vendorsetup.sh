@@ -1,2 +1,1 @@
-add_lunch_combo cm_krillin-userdebug
-add_lunch_combo cm_krillin-eng
+add_lunch_combo full_krillin-userdebug
