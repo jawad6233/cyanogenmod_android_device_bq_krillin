@@ -1,4 +1,4 @@
-LOCAL_PATH := device/alps
+LOCAL_PATH := device/bq/krillin
 
 MKIMAGE :=  $(LOCAL_PATH)/tools/mkimage
 MKBOOTFS := $(LOCAL_PATH)/tools/mkbootfs
