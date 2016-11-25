@@ -18,7 +18,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
 PRODUCT_PROPERTY_OVERRIDES += \
     sys.io.scheduler=bfq    
        
-PRODUCT_NAME := full_krillin
+PRODUCT_NAME := cm_krillin
 PRODUCT_DEVICE :=krillin
 PRODUCT_BRAND := bq
 PRODUCT_MANUFACTURER := mediatek
